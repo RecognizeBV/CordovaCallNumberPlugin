@@ -10,11 +10,6 @@ Install the plugin using:
 ionic cordova plugin add krizroring/CordovaCallNumberPlugin --save
 ```
 
-or
-
-```
-yarn add call-number
-```
 
 Use the plugin in your JS file:
 ``` javascript
