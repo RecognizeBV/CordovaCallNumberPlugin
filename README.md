@@ -7,7 +7,7 @@ Install the plugin using:
 
 
 ``` 
-ionic cordova plugin add krizroring/CordovaCallNumberPlugin --save
+ionic cordova plugin add https://github.com/krizroring/CordovaCallNumberPlugin.git#1.0.3 --save
 ```
 
 
