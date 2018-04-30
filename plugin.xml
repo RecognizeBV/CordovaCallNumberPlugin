@@ -11,8 +11,8 @@
   <author>Rohith Varanasi, Nishil Shah</author>
   
   
-  <repo>https://github.com/krizroring/CordovaCallNumberPlugin</repo>
-  <issue>https://github.com/krizroring/CordovaCallNumberPlugin/issues</issue>
+  <repo>https://github.com/RecognizeBV/CordovaCallNumberPlugin</repo>
+  <issue>https://github.com/RecognizeBV/CordovaCallNumberPlugin/issues</issue>
 
   <license>Apache 2.0</license>
   <keywords>cordova,call,dialer,phonegap</keywords>
